@@ -102,3 +102,11 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+---
+
+## ⚠️ Limitations
+
+- The model is trained specifically on **potato, tomato, and bell pepper leaves**.  
+- It only produces accurate and meaningful predictions when a **correct leaf image** of these plants is provided.  
+- Uploading non-leaf images or leaves from other plants may lead to **incorrect or irrelevant predictions**.
