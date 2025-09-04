@@ -6,7 +6,7 @@ This project is a **Plant Leaf Disease Detection system** that uses a Convolutio
 
 ## 🔍 Project Overview
 
-- **Objective:** Detect diseases in potato and tomato leaves using CNN.
+- **Objective:** Detect diseases in potato, tomato and bell pepper leaves using CNN.
 - **Model:** MobileNet-based CNN trained on leaf images.
 - **Frameworks:** TensorFlow, Keras, Streamlit.
 - **Features:**
