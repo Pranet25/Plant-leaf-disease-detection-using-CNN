@@ -1,6 +1,6 @@
 # 🌿 Plant Leaf Disease Detection using CNN
 
-This project is a **Plant Leaf Disease Detection system** that uses a Convolutional Neural Network (CNN) to classify images of potato and tomato leaves into various disease categories or healthy classes. The project also provides remedial measures for detected diseases.
+This project is a **Plant Leaf Disease Detection system** that uses a Convolutional Neural Network (CNN) to classify images of potato, tomato and bell pepper leaves into various disease categories or healthy classes. The project also provides remedial measures for detected diseases.
 
 ---
 
@@ -19,7 +19,7 @@ This project is a **Plant Leaf Disease Detection system** that uses a Convolutio
 
 **Frontend:** Streamlit, HTML/CSS  
 **Backend:** TensorFlow, Keras  
-**Model:** MobileNetV2 CNN trained on a potato & tomato leaf dataset
+**Model:** MobileNetV2 CNN trained on a potato, tomato and bell pepper leaf dataset
 
 ---
 
@@ -36,7 +36,7 @@ This project is a **Plant Leaf Disease Detection system** that uses a Convolutio
 
 You can directly download the trained model here:
 
-[Download `plant_cnn_mobilenet.h5`](https://huggingface.co/Pranet25/plant_cnn_mobilenet.h5/resolve/main/plant_cnn_mobilenet.h5)
+[`plant_cnn_mobilenet.h5`](https://huggingface.co/Pranet25/plant_cnn_mobilenet.h5/resolve/main/plant_cnn_mobilenet.h5)
 
 ---
 
